@@ -1,0 +1,7 @@
+#!/bin/bash
+
+echo "Hello World !"
+
+echo "current work dir is:"
+
+pwd
